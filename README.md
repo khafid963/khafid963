@@ -2,8 +2,7 @@
 
 
 My name is **Muhammad Khafid Prayoga**. I am from Indonesia 🇮🇩.  
-I use :penguin: for my development environment, with ubuntu focal distro .
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Linux, BASH**
 - ⚡ Fun fact **Junior Programmer.**
 - 😄 Pronouns: **He/Him**  
 
